@@ -20,7 +20,7 @@ bio: My research interests include protein/antibody engineering, nanomedicine, a
 interests:
 - Protein/antibody Engineering
 - Nanomedicine
-- Cell Therapy
+- Immunotherapy
 
 # Education to show in About widget
 education:
@@ -58,7 +58,7 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "d339104002@tmu.edu.tw"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
