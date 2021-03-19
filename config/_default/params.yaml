@@ -30,8 +30,8 @@ address:
   country: Taiwan
   country_code: TW
 coordinates:
-  latitude: '25.0253584'
-  longitude: '121.5606316'
+  latitude: '25.0253'
+  longitude: '121.5606'
 #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 #office_hours:
 #  - 'Monday 10:00 to 13:00'
